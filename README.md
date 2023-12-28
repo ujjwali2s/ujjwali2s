@@ -85,6 +85,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ujjwali2s/ujjwali2s/output/snake.svg" alt="Snake animation" />
 
 ###
