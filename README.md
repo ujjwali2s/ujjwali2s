@@ -1,6 +1,6 @@
 
 
-![header.png](https://github.com/ujjwali2s/ujjwali2s/blob/main/header.png)
+![logo](https://github.com/ujjwali2s/ujjwali2s/blob/main/header.png)
 # 💫 About Me:
 i am currently working on E-commerce mern project
 
