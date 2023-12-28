@@ -1,6 +1,6 @@
 
 
-[![Header](header.png)]
+![Header](header.png)
 # 💫 About Me:
 i am currently working on E-commerce mern project
 
