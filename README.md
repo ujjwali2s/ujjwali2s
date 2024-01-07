@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
     <a href="https://linktr.ee/ujjwal0804" target="_blank">
-    <img src="=https://images.app.goo.gl/w5SgG4MLzpBhdEsN9" height="25" alt="instagram logo"  />
+    <img src="=[https://images.app.goo.gl/w5SgG4MLzpBhdEsN9](https://images.app.goo.gl/w5SgG4MLzpBhdEsN9)" height="25" alt="instagram logo"  />
   </a>
 </div>
 
